@@ -1,4 +1,4 @@
-import sys
+import sys #импорт
 from PyQt5.QtWidgets import QApplication
 from main_window import MainWindow
 
